@@ -1,0 +1,18 @@
+header{
+    background-color: rgb(98, 0, 255);
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+body{
+    color:rgb(255, 0, 251);
+    background-image:linear-gradient(to left, rgb(84, 0, 251), rgb(48, 11, 71));
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+footer{
+    text-align: center;
+}
